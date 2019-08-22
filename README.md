@@ -16,11 +16,14 @@ This theme for the blog was made for my needs, since the available options (paid
 
 Perhaps someone will find this topic useful and save time. If possible, key points of the theme are commented for your convenience. The theme has already laid the possibility of advertising, these places I noted in the code. The menu needs to be done on your own, as it’s convenient for you with the sections you need, this is edited in the header.php file. Any difficulties installing the theme and setting it up for your needs should not seem complicated. Ultimately, you get an easy and simple theme for your blog.
 
->Возможно, кто-то найдет эту тему полезной для себя и сэкономите свое время. Там где это возможно, ключевые моменты темы прокомментированы для вашего удобства. В теме уже заложена возможность размещения рекламы, эти места я отметил в коде. Меню должно быть сделано самостоятельно, так как удобно именно вам и с нужными для вас разделами, данный момент редактируется в файле header.php. Настройка и установка темы не должно вызвать каких либо проблем и трудностей. В конце концов, вы получите легкую и простую тему для вашего блога.
+>Возможно, кто-то найдет эту тему полезной для себя и сэкономит свое время. Там где это было возможно, для вашего удобства,  ключевые моменты темы прокомментированы . В теме уже заложена возможность размещения рекламы, эти места я отметил в коде. Меню должно быть сделано самостоятельно, так как удобно именно вам и с нужными для вас разделами, данный момент редактируется в файле header.php. Настройка и установка темы не должно вызвать каких либо проблем и трудностей. В конце концов, вы получите легкую и простую тему для вашего блога.
 
 ### Screenshots
 >Скриншоты
 ![Montgo](https://github.com/blyamur/Montgo/blob/master/montgo/screenshot.png)
+
+### Demo
+[Blog.Mons.ws](https://blog.mons.ws)
 
 ### Did you find this theme useful?!
 > Вы нашли эту тему полезной ?!
