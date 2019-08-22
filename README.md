@@ -23,7 +23,7 @@ Perhaps someone will find this topic useful and save time. If possible, key poin
 ![Montgo](https://github.com/blyamur/Montgo/blob/master/montgo/screenshot.png)
 
 ### Demo
-[Blog.Mons.ws](https://blog.mons.ws)
+[blog.mons.ws](https://blog.mons.ws)
 
 ### Did you find this theme useful?!
 > Вы нашли эту тему полезной ?!
