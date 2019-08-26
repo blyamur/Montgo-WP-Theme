@@ -31,6 +31,7 @@ Perhaps someone will find this topic useful and save time. If possible, key poin
 Happy to hear that :) *If You want to help me, you can support me on [PayPal](https://paypal.me/enkonu)*
 
 > Рад это слышать :) Если вы хотите мне помочь, вы можете поддержать через [PayPal](https://paypal.me/enkonu)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I41252N)
 
 *Thanks for reading :heart_eyes_cat:*
 > Спасибо за чтение!
