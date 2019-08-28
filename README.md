@@ -25,6 +25,12 @@ Perhaps someone will find this topic useful and save time. If possible, key poin
 ### Demo
 [blog.mons.ws](https://blog.mons.ws)
 
+### Copyrights and Licenses
+This project is licensed under the GNU GPL, version 2 or later.
+
+2019 © [Mons](https://blog.mons.ws)
+
+
 ### Did you find this theme useful?!
 > Вы нашли эту тему полезной ?!
 
