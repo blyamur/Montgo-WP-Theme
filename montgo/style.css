@@ -12,7 +12,6 @@ Text Domain: Montgo
 
 Use theme topic, make an interesting blog, share knowledge and positive with other people.
 */
-
  html {
      height: 100%;
 }
@@ -879,4 +878,3 @@ input.go:hover, input[type="button"].go:hover, input[type="submit"].go:hover {
          padding: 2.5em 1em 0.5em 1em ;
     }
 }
- 
