@@ -40,19 +40,15 @@
 							     <a href="/wp-login.php">Enter</a> 
 							';
 							}?>	
-            </div>
-			
+            </div>			
         </header>
-		<div id="dpdmenu" class="dpdmenu" style="display:none">
-		 
+		<div id="dpdmenu" class="dpdmenu" style="display:none">		 
 		<a href="<?php bloginfo('url'); ?>">main</a>
 		<a href="*">about me</a>
 		<a href="*">gallery</a>
 		<a href="#" onclick="change('srchf')">поиск </a>
 		<a href="*">feedback</a>
-	
 		</div>
-	
 		<div id="srchf" style="display:none">
 		
 		<form method="get" class="nav__search" action="<?php bloginfo('url'); ?>">
