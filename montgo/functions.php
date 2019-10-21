@@ -1,10 +1,40 @@
 <?php
+function getPostViews($postID){
+    $count_key = 'post_views_count';
+    $count = get_post_meta($postID, $count_key, true);
+    if($count==''){
+        delete_post_meta($postID, $count_key);
+        add_post_meta($postID, $count_key, '0');
+        return "0 просмотров";
+    }
+	echo _e(' ', 'dot-b');
+    return $count;
+}
+function setPostViews($postID) {
+    $count_key = 'post_views_count';
+    $count = get_post_meta($postID, $count_key, true);
+    if($count==''){
+        $count = 0;
+        delete_post_meta($postID, $count_key);
+        add_post_meta($postID, $count_key, '0');
+    }else{
+        $count++;
+        update_post_meta($postID, $count_key, $count);
+    }
+}
+
 function wp_default_image_editor( $editors ) {
     $gd_editor = 'WP_Image_Editor_GD';
     $editors = array_diff( $editors, array( $gd_editor ) );
     array_unshift( $editors, $gd_editor );
     return $editors;
 }
+	
+function my_jpeg_quality($arg)
+{
+return (int)100;
+}
+add_filter('jpeg_quality', 'my_jpeg_quality');
 add_filter( 'wp_image_editors', 'wp_default_image_editor' );
 add_theme_support( 'html5', array(
 		'search-form', 'comment-form', 'comment-list', 'gallery', 'caption'
