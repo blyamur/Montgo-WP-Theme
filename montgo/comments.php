@@ -10,7 +10,6 @@ if ( post_password_required() ) {
 <!-- END ADVERT BLOCK -->
 <div id="comments" class="comments-area">
 	<?php // You can start editing here -- including this comment! ?>
-
 	<?php if ( have_comments() ) : ?>
 		<h2 class="comments-title">
 			<?php
@@ -45,7 +44,6 @@ if ( post_password_required() ) {
 			</div><!-- .nav-links -->
 		</nav><!-- #comment-nav-below -->
 		<?php endif; // Check for comment navigation. ?>
-
 	<?php endif; // Check for have_comments(). ?>
 	<?php
 		// If comments are closed and there are comments, let's leave a little note, shall we?
@@ -58,5 +56,4 @@ if ( post_password_required() ) {
 		'title_reply'         => esc_html__( 'Add comments', 'mo' ),
 		'comment_notes_after' => '',
 	) ); ?>
-
 </div><!-- #comments -->
