@@ -1,5 +1,3 @@
-<!-- <?php echo get_num_queries(); ?> queries in. <?php timer_stop(1); ?> seconds.-->
-
 <!-- START ADVERT BLOCK -->
 <div style="margin-top:1.2em;">
 	<!-- GOOGLE AD CODE -->
@@ -10,7 +8,6 @@
 	<div class="copy">All Rights Reserved</div>
 	<div class="copyright">&copy; <a href="<?php bloginfo('url'); ?>"><?php bloginfo( 'name' ); ?></a> | Theme author <a href="https://blog.mons.ws/">Mons</a></div> 
 </footer>
-
 <script>
 function change(idName) {
   if(document.getElementById(idName).style.display=='none') {
