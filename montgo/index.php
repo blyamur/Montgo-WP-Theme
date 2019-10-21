@@ -14,7 +14,7 @@
 			 <span class="post-date float_left">
 			 <?php echo getPostViews(get_the_ID()); ?> |
 			 <?php the_time('j M Y'); ?></span>	
-             <span class="com-data float_right" ><?php edit_post_link('Edit ', '', '  '); ?> <?php comments_popup_link('(0) comment', '(1) comment', '(%) comment'); ?></span>
+        <span class="com-data float_right" ><?php edit_post_link('Edit ', '', '  '); ?> <?php comments_popup_link('(0) comment', '(1) comment', '(%) comment'); ?></span>
 	<div class="clear"></div>    
 	</div>
     </article>
