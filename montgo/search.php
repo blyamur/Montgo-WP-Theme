@@ -5,7 +5,7 @@
 	<?php while (have_posts()) : the_post(); ?>
 	<article class="post-container">
 	<a class="post-link" href="<?php the_permalink() ?>">
-			<h2><?php the_title(); ?></h2></a>
+		<h2><?php the_title(); ?></h2></a>
 	<div id="post-<?php the_ID()?>" <?php post_class( array( 'post-class-v') ) ?>>
 			<span class="cat"><?php the_category(' '); ?></span>  
 			<?php the_content('Читать далее &raquo;'); ?>
