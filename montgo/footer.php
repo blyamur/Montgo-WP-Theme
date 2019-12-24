@@ -1,6 +1,6 @@
 <!-- START ADVERT BLOCK -->
 <div style="margin-top:1.2em;">
-	<!-- GOOGLE AD CODE -->
+	<!-- PLACE FOR GOOGLE ADS CODE -->
 </div> 
 <!-- END ADVERT BLOCK -->
 <?php wp_footer(); ?>
