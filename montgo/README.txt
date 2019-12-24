@@ -9,4 +9,4 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: minimalist, minimal, white, light, one-columns, without-sidebar, responsive-layout, custom-header, custom-menu, montgo
 Text Domain: Montgo
 
-Use theme topic, make an interesting blog, share knowledge and positive with other people.
+Use this theme topic, make an interesting blog, share knowledge and positive with other people.
