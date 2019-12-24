@@ -5,7 +5,7 @@ if ( post_password_required() ) {
 ?>
 <!-- START ADVERT BLOCK -->
 <div style="margin-top:1.2em;">
-	<!-- GOOGLE AD CODE -->
+	<!-- PLACE FOR GOOGLE ADS CODE -->
 </div> 
 <!-- END ADVERT BLOCK -->
 <div id="comments" class="comments-area">
