@@ -46,13 +46,13 @@
 		<a href="<?php bloginfo('url'); ?>">main</a>
 		<a href="*">about me</a>
 		<a href="*">gallery</a>
-		<a href="#" onclick="change('srchf')">поиск </a>
+		<a href="#" onclick="change('srchf')">search </a>
 		<a href="*">feedback</a>
 		</div>
 		<div id="srchf" style="display:none">
 		
 		<form method="get" class="nav__search" action="<?php bloginfo('url'); ?>">
-				<input type="text"  value="" placeholder="Поиск блогу" name="s" > 
+				<input type="text"  value="" placeholder="Search" name="s" > 
 				<input type="submit" class="go" value="">
 		</form>
 		</div>
