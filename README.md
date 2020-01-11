@@ -22,7 +22,7 @@ Perhaps someone will find this topic useful and save time. If possible, key poin
 >Скриншоты
 ![Montgo](https://github.com/blyamur/Montgo/blob/master/montgo/screenshot.png)
 
-### Demo
+### Demo / Демо
 [blog.mons.ws](https://blog.mons.ws)
 
 ### Copyrights and Licenses
