@@ -9,8 +9,8 @@
 			<span class="cat"><?php the_category(' '); ?></span>  
 			<?php the_content('Read more &raquo;'); ?>
 	        <p class="article_tags"><?php if ( function_exists('wp_tag_cloud') ) : ?>
-							          <?php the_tags('', '' , ''); ?>
-							          <?php endif; ?></p>
+							         <?php the_tags( '<ul class="tags"><li>','</li><li>','</li></ul>'); ?>
+							          <?php endif; ?></p><div style="clear:both"></div>
 			 <span class="post-date float_left">
 			 <?php echo getPostViews(get_the_ID()); ?> |
 			 <?php the_time('j M Y'); ?></span>	
