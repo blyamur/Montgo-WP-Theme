@@ -7,11 +7,11 @@
 	<a class="post-link" href="<?php the_permalink() ?>">
 		<h2><?php the_title(); ?></h2></a>
 	<div id="post-<?php the_ID()?>" <?php post_class( array( 'post-class-v') ) ?>>
-			<span class="cat"><?php the_category(' '); ?></span>  
-			<?php the_content('Читать далее &raquo;'); ?>
+		<span class="cat"><?php the_category(' '); ?></span>  
+		<?php the_content('Читать далее &raquo;'); ?>
 	        <p class="article_tags"><?php if ( function_exists('wp_tag_cloud') ) : ?>
-							          <?php the_tags('', '' , ''); ?>
-							          <?php endif; ?></p>
+			 <?php the_tags('', '' , ''); ?>
+			 <?php endif; ?></p>
 			 <span class="post-date float_left">
 			 <?php echo getPostViews(get_the_ID()); ?> |
 			 <?php the_time('j M Y'); ?></span>	
