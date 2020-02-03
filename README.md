@@ -28,7 +28,7 @@ Perhaps someone will find this topic useful and save time. If possible, key poin
 ### Copyrights and Licenses
 This project is licensed under the GNU GPL, version 2 or later.
 
-2019 © [Mons](https://blog.mons.ws)
+© 2020  [Mons](https://blog.mons.ws)
 
 
 ### Did you find this theme useful?!
