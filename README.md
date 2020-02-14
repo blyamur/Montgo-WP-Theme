@@ -4,7 +4,7 @@
 Montgo is a Clean and Minimalist for blogging theme that offers a beautiful and modern design to your Wordpress site, 
 without excess elements. Use theme topic, make an interesting blog, share knowledge and positive with other people.
 
->Montgo - это легкая и минималистичная тема для блогов, которая предлагает красивый и современный дизайн для вашего сайта Wordpress без лишних элементов. Используйте тему тему, делайте интересные блоги, делитесь знаниями и позитивом с другими людьми.
+>Montgo - это Легкая и Минималистичная тема для блогов, которая предлагает красивый и современный дизайн для вашего сайта Wordpress без лишних элементов. Используйте тему тему, делайте интересные блоги, делитесь знаниями и позитивом с другими людьми.
 
 
 ### About theme
