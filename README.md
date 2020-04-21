@@ -26,7 +26,7 @@ Perhaps someone will find this topic useful and save time. If possible, key poin
 [blog.mons.ws](https://blog.mons.ws)
 
 ### Copyrights and Licenses
-This project is licensed under the GNU GPL, version 2 or later.
+Not for commercial use.
 
 © 2020  [Mons](https://blog.mons.ws)
 
