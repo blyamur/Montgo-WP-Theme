@@ -38,7 +38,7 @@ Happy to hear that :) *If You want to help me, you can support me on [PayPal](ht
 
 > Рад это слышать :) Если вы хотите мне помочь, вы можете поддержать меня материально
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I41252N)
+
 
 *Thanks for reading :heart_eyes_cat:*
 > Спасибо за чтение!
