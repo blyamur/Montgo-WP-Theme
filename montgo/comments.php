@@ -16,7 +16,6 @@ if ( post_password_required() ) {
 				comments_number( '', esc_html__( 'comment 1 ', 'mo' ), esc_html__( 'comment % ', 'mo' ) );
 			?>
 		</h2>
-        
 		<?php if ( get_comment_pages_count() > 1 && get_option( 'page_comments' ) ) : // Are there comments to navigate through? ?>
 		<nav id="comment-nav-above" class="comment-navigation">
 			<h3 class="screen-reader-text"><?php esc_html_e( 'Comment navigation', 'mo' ); ?></h3>
@@ -51,7 +50,6 @@ if ( post_password_required() ) {
 	?>
 		<p class="no-comments"><?php esc_html_e( 'Comments closed.', 'mo' ); ?></p>
 	<?php endif; ?>
-
 	<?php comment_form( array(
 		'title_reply'         => esc_html__( 'Add comments', 'mo' ),
 		'comment_notes_after' => '',
