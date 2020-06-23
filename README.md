@@ -8,7 +8,7 @@ without excess elements. Use theme topic, make an interesting blog, share knowle
 
 
 ### About theme
-> О теме
+> Об этой  теме
 
 This theme for the blog was made for my needs, since the available options (paid and free) did not completely satisfy me and did not like me. I spent a lot of time looking for an option that I would like and at the same time be simple and easy, and most importantly convenient for blog visitors. Several times he began to update the old theme, which he also did for himself, several times he began to remake themes that seemed to be close in perception. But in the end, this theme appeared for the blog.
 
