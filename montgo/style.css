@@ -782,7 +782,7 @@ ul.tags li a {
 }
 .nav__search input {
     width: 100%;
-	padding: 15px 15px 15px 15px
+    padding: 15px 15px 15px 15px;
     background: #FFF;
     border: 1px;
     font-size: 18px;
