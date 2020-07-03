@@ -5,7 +5,6 @@
 	<meta name="viewport" content="width=device-width">
 	<title><?php wp_title( '–', true, 'right'); ?> <?php bloginfo( 'name' ); ?></title>
 	<link rel="stylesheet" type="text/css" media="screen" href="<?php bloginfo( 'stylesheet_url' ); ?>?v=<?php echo time(); ?>1">
-	<link rel="shortcut icon" type="image/x-icon" href="<?php bloginfo('template_url'); ?>/img/favicon.png">
 	<link href='https://fonts.googleapis.com/css?family=Fira+Mono:400,700' rel='stylesheet' type='text/css'> 
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800&display=swap&subset=cyrillic" rel="stylesheet">
 	<meta property="og:type" content="article" />
