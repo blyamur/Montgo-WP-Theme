@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 <section class="post-list">
-     <h2 class="page-title"><?php printf( esc_html__( 'Search Results for: %s', 'mo' ), get_search_query() ); ?></h2>
+     <h2 class="page-title"><?php printf( esc_html__( 'Search Results for: «%s»', 'mo' ), get_search_query() ); ?></h2>
 	<?php if (have_posts()) : ?>
 	<?php while (have_posts()) : the_post(); ?>
 	<article class="post-container">
