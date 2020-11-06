@@ -820,7 +820,6 @@ input.go:hover, input[type="button"].go:hover, input[type="submit"].go:hover {
     outline: none; 
 	position: absolute; 
 }
-
 /* Footer */
  #footer {
      display: -moz-flex;
