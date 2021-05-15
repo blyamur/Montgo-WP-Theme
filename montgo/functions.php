@@ -1,4 +1,5 @@
 <?php
+
 remove_action('wp_head', 'wp_generator'); // Убирает вывод используемого движка и его версии/Removes the output of the used engine and its version
 remove_action('wp_head', 'rel_canonical'); // Убирает канонические линки/Removes canonical links
 remove_action('wp_head', 'wp_shortlink_wp_head'); // Убирает короткую ссылку к текущей странице/Removes a short link to the current page
@@ -17,4 +18,5 @@ remove_action('wp_print_styles', 'print_emoji_styles');
 remove_action('admin_print_scripts', 'print_emoji_detection_script');
 remove_action('admin_print_styles', 'print_emoji_styles'); // убираем meta rel='dns-prefetch' href='//s.w.org'   / remove meta
 remove_action( 'wp_head', 'wp_resource_hints', 2 );
+
 ?>
