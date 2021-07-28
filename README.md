@@ -37,12 +37,12 @@ Not for commercial use.
 
 > [Темная версия Легкой и минималистичная  бесплатной Wordpress темы.](https://github.com/blyamur/Montgo-Dark)
 
-### Did you find this theme useful?!
-> Вы нашли эту тему полезной ?!
+### Did you find this useful?!
+> Вы нашли это  полезным ?!
 
-Happy to hear that :) *If You want to help me, you can support me on [PayPal](https://paypal.me/enkonu)*
+Happy to hear that :) *If You want to help me, you can buy me a cup of  [cup of coffee](https://yoomoney.ru/to/41001158104834)*
 
-> Рад это слышать :) Если вы хотите мне помочь, вы можете поддержать меня материально
+> Рад это слышать :) Если вы хотите мне помочь, вы можете угостить меня чашкой кофе
 
 
 
