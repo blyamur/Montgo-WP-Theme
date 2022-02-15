@@ -28,7 +28,7 @@ Perhaps someone will find this topic useful and save time. If possible, key poin
 ### Copyrights and Licenses
 Not for commercial use.
 
-© 2020  [Mons](https://blog.mons.ws)
+© 2022  [Mons](https://blog.mons.ws)
 
 ### You may also be interested in the Dark version
 > Так же вас возможно заинтересует темная вариант
