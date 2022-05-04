@@ -1,4 +1,7 @@
-![From Russia With Love](https://github.com/blyamur/Montgo/blob/master/montgo/frwl33.png)
+![https://github.com/blyamur/Montgo/blob/master/montgo/frwl33.png](https://github.com/blyamur/Montgo/blob/master/montgo/frwl33.png)
+
+
+
 # Montgo - Light and minimalistic free Wordpress theme.
 > Montgo - Легкая и минималистичная бесплатная Wordpress тема.
 
@@ -23,8 +26,6 @@ Perhaps someone will find this topic useful and save time. If possible, key poin
 >Скриншоты
 ![Montgo](https://github.com/blyamur/Montgo/blob/master/montgo/screenshot.png)
 
-### Demo / Демо
-[blog.mons.ws](https://blog.mons.ws)
 
 ### Copyrights and Licenses
 Not for commercial use.
