@@ -1,3 +1,5 @@
+[![From Russia With Love](https://github.com/blyamur/Montgo/)](https://github.com/blyamur/Montgo/blob/master/montgo/frwl.png)
+
 # Montgo - Light and minimalistic free Wordpress theme.
 > Montgo - Легкая и минималистичная бесплатная Wordpress тема.
 
