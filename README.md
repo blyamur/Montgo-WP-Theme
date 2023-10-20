@@ -31,6 +31,8 @@ Not for commercial use.
 
 © 2022  
 
+*If You want to help me, you can buy me a cup of coffee :coffee: ( [yoomoney](https://yoomoney.ru/to/41001158104834) or [ko-fi](https://ko-fi.com/monseg), [boosty.to](https://boosty.to/monseg) )* 
+
 ### You may also be interested in the Dark version
 > Так же вас возможно заинтересует темная вариант
 
@@ -38,14 +40,6 @@ Not for commercial use.
 
 > [Темная версия Легкой и минималистичная  бесплатной Wordpress темы.](https://github.com/blyamur/Montgo-Dark)
 
-
-
-
-### Did you find this useful?! | Вы нашли это  полезным ?!
-
-Happy to hear that :) *If You want to help me, you can buy me a cup of coffee :coffee: ( [yoomoney](https://yoomoney.ru/to/41001158104834) or [ko-fi](https://ko-fi.com/W7W460SQ3), [boosty.to](https://boosty.to/monseg) )*  
-
-> Рад это слышать :) Если вы хотите мне помочь, вы можете угостить меня чашечкой кофе 
 
 
 *Thanks for reading :heart_eyes_cat:*
