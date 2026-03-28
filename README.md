@@ -31,7 +31,7 @@ Not for commercial use.
 
 © 2022  
 
-*If You want to help me, you can buy me a cup of coffee :coffee: ( [yoomoney](https://yoomoney.ru/to/41001158104834) or [ko-fi](https://ko-fi.com/monseg), [boosty.to](https://boosty.to/monseg) )* 
+*If You want to help me, you can buy me a cup of coffee :coffee: ( [yoomoney](https://yoomoney.ru/to/41001158104834) or [ko-fi](https://ko-fi.com/monseg) )* 
 
 ### You may also be interested in the Dark version
 > Так же вас возможно заинтересует темная вариант
